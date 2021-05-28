@@ -18,3 +18,16 @@ Sample ouput:
 *Thu Apr 22 20:10:26 2021*
 
 *..disconnected..*
+
+Assignment 2
+---------------------------------------------------------------------
+
+Take multiprocess and multithreaded servers, and add 
+
+*daemonizing,*
+
+*dropping priviledges,*
+
+*chroot jailing,* 
+
+*and logging* to those servers. So, that they log their activities to syslog, and run as a regular user, and run chrooted to some directory.
